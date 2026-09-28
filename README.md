@@ -1,3 +1,4 @@
+```metmaid
 flowchart TD
     A([Inicio]) --> B[Abrir aplicación]
     B --> C[Registrar hora de entrada]
@@ -15,3 +16,4 @@ flowchart TD
 
     class H ok;
     class F advertencia;
+```
